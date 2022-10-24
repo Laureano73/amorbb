@@ -1,0 +1,18 @@
+body {
+    background: rgb(194, 131, 230);
+}
+
+
+.ubicacion {
+    text-align: center;
+}
+
+.glow {
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.titulo-contacto {
+    text-align: center;
+}
